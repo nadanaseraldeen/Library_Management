@@ -1,0 +1,621 @@
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Library.exe
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Library.deps.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Library.runtimeconfig.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\obj\Debug\net6.0-windows\Library.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\obj\Debug\net6.0-windows\Library.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\obj\Debug\net6.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CopyComplete
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\obj\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\obj\Debug\net6.0-windows\refint\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\obj\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\obj\Debug\net6.0-windows\Library.genruntimeconfig.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\obj\Debug\net6.0-windows\ref\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\obj\Debug\net6.0-windows\Library.Properties.Resources.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\obj\Debug\net6.0-windows\Library.Form2.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming Lab\Library\Library\obj\Debug\net6.0-windows\Library.Admin.resources
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Library.exe
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Library.deps.json
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Library.runtimeconfig.json
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Library\Library\obj\Debug\net6.0-windows\Library.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Library\Library\obj\Debug\net6.0-windows\Library.Admin.resources
+C:\Users\HP\Desktop\Library\Library\obj\Debug\net6.0-windows\Library.Form2.resources
+C:\Users\HP\Desktop\Library\Library\obj\Debug\net6.0-windows\Library.Properties.Resources.resources
+C:\Users\HP\Desktop\Library\Library\obj\Debug\net6.0-windows\Library.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Library\Library\obj\Debug\net6.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfo.cs
+C:\Users\HP\Desktop\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CopyComplete
+C:\Users\HP\Desktop\Library\Library\obj\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Library\Library\obj\Debug\net6.0-windows\refint\Library.dll
+C:\Users\HP\Desktop\Library\Library\obj\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Library\Library\obj\Debug\net6.0-windows\Library.genruntimeconfig.cache
+C:\Users\HP\Desktop\Library\Library\obj\Debug\net6.0-windows\ref\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Library.exe
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Library.deps.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Library.runtimeconfig.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\obj\Debug\net6.0-windows\Library.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\obj\Debug\net6.0-windows\Library.Admin.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\obj\Debug\net6.0-windows\Library.Form2.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\obj\Debug\net6.0-windows\Library.Properties.Resources.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\obj\Debug\net6.0-windows\Library.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\obj\Debug\net6.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CopyComplete
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\obj\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\obj\Debug\net6.0-windows\refint\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\obj\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\obj\Debug\net6.0-windows\Library.genruntimeconfig.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\Library\Library\obj\Debug\net6.0-windows\ref\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Library.exe
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Library.deps.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Library.runtimeconfig.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\Library.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\Library.Admin.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\Library.Form2.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\Library.Properties.Resources.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\Library.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CopyComplete
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\refint\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\Library.genruntimeconfig.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\ref\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done\Library\Library\obj\Debug\net6.0-windows\Library.LibrarianForm.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Library.exe
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Library.deps.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Library.runtimeconfig.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\Library.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\Library.Admin.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\Library.Form2.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\Library.LibrarianForm.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\Library.Properties.Resources.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\Library.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CopyComplete
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\refint\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\Library.genruntimeconfig.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception\Library\Library\obj\Debug\net6.0-windows\ref\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Library.exe
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Library.deps.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Library.runtimeconfig.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\Library.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\Library.Admin.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\Library.Form2.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\Library.LibrarianForm.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\Library.Properties.Resources.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\Library.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CopyComplete
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\refint\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\Library.genruntimeconfig.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project class done and design -operation & exception1\Library\Library\obj\Debug\net6.0-windows\ref\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Library.exe
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Library.deps.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Library.runtimeconfig.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\Library.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\Library.Admin.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\Library.Form2.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\Library.LibrarianForm.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\Library.Properties.Resources.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\Library.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CopyComplete
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\refint\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\Library.genruntimeconfig.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project F\Library\Library\obj\Debug\net6.0-windows\ref\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Library.exe
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Library.deps.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Library.runtimeconfig.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\Library.Admin.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\Library.Form2.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\Library.LibrarianForm.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\Library.Properties.Resources.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CopyComplete
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\refint\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\Library.genruntimeconfig.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FF\Library\Library\obj\Debug\net6.0-windows\ref\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Library.exe
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Library.deps.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Library.runtimeconfig.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\Library.Admin.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\Library.Form2.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\Library.LibrarianForm.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\Library.Properties.Resources.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CopyComplete
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\refint\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\Library.genruntimeconfig.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFF\Library\Library\obj\Debug\net6.0-windows\ref\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Library.exe
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Library.deps.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Library.runtimeconfig.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.Admin.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.Form2.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.LibrarianForm.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.Properties.Resources.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CopyComplete
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\refint\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.genruntimeconfig.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 00\project FFFF\Library\Library\obj\Debug\net6.0-windows\ref\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Library.exe
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Library.deps.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Library.runtimeconfig.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.Admin.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.Form2.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.LibrarianForm.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.Properties.Resources.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CopyComplete
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\refint\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\Library.genruntimeconfig.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project 01\project FFFF\Library\Library\obj\Debug\net6.0-windows\ref\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\Library.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\Library.Admin.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\Library.Form2.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\Library.LibrarianForm.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\Library.Properties.Resources.resources
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\Library.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\Library.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\refint\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Library.exe
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Library.deps.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Library.runtimeconfig.json
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Library.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Library.pdb
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\Library.csproj.CopyComplete
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\Library.genruntimeconfig.cache
+C:\Users\HP\Desktop\Nada PPU(third year , first semester)\Visual Programming\project FINISH L\Library\Library\obj\Debug\net6.0-windows\ref\Library.dll
